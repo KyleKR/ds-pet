@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: petclinic
+Implementation-Version: 1.4.2
+Archiver-Version: Plexus Archiver
+Built-By: pipeline
+Implementation-Vendor-Id: org.springframework.samples
+Spring-Boot-Version: 1.4.2.RELEASE
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.WarLauncher
+Start-Class: org.springframework.samples.petclinic.PetClinicApplicatio
+ n
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+Created-By: Apache Maven 3.2.1
+Build-Jdk: 1.8.0
+Implementation-URL: http://projects.spring.io/spring-boot/spring-petcl
+ inic/
+
